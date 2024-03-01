@@ -14,7 +14,7 @@ require("sidebar-nvim").setup({
     containers = {
         attach_shell = "/usr/bin/zsh", show_all = true, interval = 5000,
     },
-    datetime = { format = "%a %b %d, %H:%M", clocks = { { name = "local" } } },
+    datetime = { format = "%a %b %d, %H:%M", clocks = { { name = "for tsaizhifan" } } },
     todos = { ignored_paths = { "~" } },
     sections = {
         "datetime",
