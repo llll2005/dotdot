@@ -1,7 +1,8 @@
 -- core
+  require("core.plugins-setup")
   require("core.keymaps")
   require("core.options")
-  require("core.plugins-setup")
+
 
 --autoActPlugins
   require("autoActPlugs.header")
