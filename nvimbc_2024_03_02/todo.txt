@@ -1,9 +1,0 @@
-#TODO
-
-1. diffview.nvim
-2. lsp/
-3. autosave
-4. edgy
-5. todo comments and trouble
-123
-TODO
