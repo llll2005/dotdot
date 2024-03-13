@@ -243,7 +243,7 @@ use({
     end,
 })
 ----- utils -----
-
+-- made by L
 ----- LSP -----
   use "lewis6991/gitsigns.nvim" -- 左則git提示
   use {
