@@ -11,7 +11,3 @@ wget https://github.com/neovim/neovim/releases/download/nightly/nvim-linux64.tar
 
 ## Run Neovim:
  * Execute the "nvim" command to start Neovim. If you've followed the previous steps correctly, it should use the configuration files from the cloned "nvim" directory.
-
-註 這程式有bug殼以跟我說一下 謝ㄌ
-但我不會幫你修電腦
-也不會幫你裝 檔案都給ㄌ一定裝ㄉ下來ㄅ
